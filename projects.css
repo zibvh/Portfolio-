@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blue;
+    padding: 20px;
+    color: #333;
+}
+
+.project {
+    max-width: 800px;
+    margin: auto;
+    background: skyblue;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project h1 {
+    font-size: 30px;
+    color: #5a2a82;
+    margin-bottom: 10px;
+}
+
+.project h2 {
+    margin-top: 25px;
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.num {
+    font-size: 33px;
+    font-family: Georgia;
+    margin: 20px;
+    background-color: red;
+    border-top-right-radius: 500px;
+    border-bottom-right-radius: 500px;
+}
+.navi ul {
+    font-size: 20px;
+    font-family: Arial;
+    list-style: none;
+    background-color: grey;
+    border-radius: 23px;
+    border-block-color: red;
+}
+.navi a {
+    color: black;
+    background-color:;
+    list-style: none;
+    font-width: 9px;
+}
+.q {
+    margin-right: 23px;
+    list-style: none;
+}
+.r {
+    margin-right: 23px;
+    color: black;
+    list-style: none;
+}
+nav {
+    margin-top: 1px;
+    margin-left: 1px;
+    color: black;
+}
+header {
+    background-color: grey;
+    font-family: Trebuchet MS;
+    font-size: 12px;
+    color: crimson;
+}
+.footer {
+    background-color: grey;
+    font-family: Trebuchet MS;
+    font-size: 12px;
+    color: crimson;
+}

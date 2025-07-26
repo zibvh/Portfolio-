@@ -1,0 +1,68 @@
+body {
+    background-color: blue;
+    font-family: Consolas;
+    color: black;
+}
+
+.btn {
+    background-color: #00ccff;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 15px;
+    align-self: left;
+    margin: 10px;
+    margin-left: 2px;
+    display: inline-block;
+    transition:
+        transform 0.3s ease,
+        background 0.3s;
+}
+.btn:hover {
+    background-color: #00ccff;
+    transform: scale(1.05);
+}
+.m ul {
+    list-style: none;
+    background-color:;
+}
+ul {
+    list-style: none;
+    font-size: 30px;
+    color: blue;
+}
+.q {
+    margin-left: 15px;
+    margin-bottom: 13px;
+}
+.navi {
+    background-color: grey;
+    border-radius: 1px;
+}
+h1 {
+    text-align: left;
+    margin-left: 13px;
+    font-size: 500%;
+    margin-bottom: 13px;
+    font-family: Arial;
+    color: white;
+}
+.in {
+    font-size: 45px;
+    color: black;
+    font-family: Monospace;
+}
+
+.g {
+    font-size: 30px;
+    font-family: Monospace;
+    margin-bottom: 70px;
+}
+.e {
+    font-size: 19px;
+    background-color: grey;
+    border-top-right-radius: 500px;
+    border-bottom-right-radius: 500px;
+}
+.i {
+    background-color: grey;
+}
